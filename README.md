@@ -1,8 +1,8 @@
 # Open Source Audit Project
 
 ## Student Details
-Name: Shreya Gupta 
-Roll Number: 24BHI10045 
+Name: Shreya Gupta  
+Reg No.: 24BHI10045  
 
 ## Project Description
 This project focuses on understanding open-source software using Git and performing system audit tasks using shell scripting in a Linux environment.
