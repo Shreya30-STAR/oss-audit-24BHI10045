@@ -5,7 +5,7 @@ Name: Shreya Gupta
 Reg No.: 24BHI10045  
 
 ## Project Description
-This project focuses on understanding open-source software using Git and performing system audit tasks using shell scripting in a Linux environment.
+In this project, I explored the use of open-source tools, mainly Git, along with Linux shell scripting. The goal was to perform basic system auditing tasks by creating scripts that collect system information, verify installed packages, analyze directories, and read log files.
 
 
 ## Project Files
@@ -44,12 +44,12 @@ sudo apt install git -y
 
 ## Scripts Overview
 
-- script1.sh: Displays system information such as user name, kernel version, date, and uptime.  
-- script2.sh: Checks whether Git is installed and displays its version.  
-- script3.sh: Performs directory audit by checking permissions and size of important directories.  
+- script1.sh: Displays general system information such as user name, kernel version, date, and uptime.  
+- script2.sh: Checks whether Git is installed and shows its version.  
+- script3.sh: Checks selected directories and displays their permissions and sizes.  
 - script4.sh: Analyzes log files and counts occurrences of a given keyword.  
-- script5.sh: Takes user input and generates an open-source manifesto.
+- script5.sh: Collects user input and generates a simple open-source manifesto.
 
 ## Learning Outcome
 
-Through this project, I learned how to use Linux commands, create shell scripts, and manage version control using Git and GitHub. I also gained practical experience in handling system-level tasks and automation.
+By completing this project, I gained hands-on experience how to use Linux commands, create shell scripts, and manage version control by using Git and GitHub. I also gained practical experience in handling system-level tasks, automation and submit project using GitHub.
